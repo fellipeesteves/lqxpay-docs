@@ -1,0 +1,2 @@
+# lqxpay-docs
+API Swagger
