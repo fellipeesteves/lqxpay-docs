@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "title": "WePay API",
     "contact": {
-      "email": "hi@wepay.live",
+      "email": "hi@wepay.live"
     },
     "x-logo": {
       "url": "https://docs.wepay.live/logo.png",
@@ -1201,9 +1201,5 @@ Console.WriteLine(\"Cancel a Payment: \" + JsonConvert.SerializeObject(cancelPay
         }
       }
     }
-  },
-  "externalDocs": {
-    "description": "Ask your questions in our contact",
-    "url": "https://wepay.live/contact-us"
   }
 }
